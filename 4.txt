@@ -1,6 +1,2 @@
 asdfasdf
-<<<<<<< HEAD
 asdfasdfasdfasdf
-=======
-b1b1b1b1b1b
->>>>>>> main
